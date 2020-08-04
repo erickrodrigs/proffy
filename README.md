@@ -11,6 +11,8 @@ Here are the technologies used in this project.
 * ReactJS
 * React Native
 * NodeJS
+* SQLite3
+* Knex
 * Yarn
 
 
