@@ -133,7 +133,7 @@ function TeacherForm() {
             </legend>
             
             { scheduleItems.map((schedule, index) => (
-              <div key={ schedule.week_day } className="schedule-item">
+              <div key={ index } className="schedule-item">
                 <Select
                   name="week_day"
                   label="Dia da semana"
